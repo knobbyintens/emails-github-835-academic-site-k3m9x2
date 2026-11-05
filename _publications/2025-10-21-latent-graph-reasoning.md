@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-10-21-latent-graph-reasoning
 excerpt: 'We learn latent graph structures for multi-hop question answering, allowing compositional reasoning without an explicit knowledge graph.'
 date: 2025-10-21
-venue: 'Under review at WAML 2026 - Workshop on Applied Machine Learning'
+venue: 'Workshop on Applied Machine Learning (WAML 2026)'
 paperurl: 'https://openreview.net/forum?id=eg835latentgraph'
-citation: 'Jose Anderson, et al. (2025). "Latent Graph Reasoning for Compositional Question Answering." <i>Under review at WAML 2026 - Workshop on Applied Machine Learning</i>.'
+citation: 'Jose Anderson, et al. (2025). "Latent Graph Reasoning for Compositional Question Answering." <i>Workshop on Applied Machine Learning (WAML 2026)</i>.'
 ---
